@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SEUUSUARIO.github.io/alvim-reboques/sitemap.xml
